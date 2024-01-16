@@ -33,10 +33,8 @@
 - Post-translational Protein Modifications and Diseases
 
 ## Data Processing and Analysis Skills
-
 - C++ Data Processing：
   - I use the C++ programming language to write programs for extracting and processing protein modification data. These programs may involve tasks such as organizing protein modification data.
-
 - Python Data Analysis：
   - I employ Python for feature extraction of experimental data.
   
