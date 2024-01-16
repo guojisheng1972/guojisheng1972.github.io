@@ -32,6 +32,17 @@
 - Metabolomics
 - Post-translational Protein Modifications and Diseases
 
+## Data Processing and Analysis Skills
+
+### C++ Data Processing
+
+I utilize the C++ programming language to write programs for extracting and processing protein modification data.
+
+### Python Data Analysis
+
+I employ Python for feature extraction of experimental data.
+
+
 ## Achievements
 
 ### Published Articles:
@@ -49,3 +60,4 @@
 - 2023.1.1-2025.12.30: Shandong Provincial Natural Science Foundation (2023 ZR2022MC219)
 - 2021/7-Present: Binzhou Medical University Research Fund (BY2021KYOD07)
 - 2015/10—2016/7: Shandong Province Major Science and Technology Project (2015ZDXX0802A02)
+
