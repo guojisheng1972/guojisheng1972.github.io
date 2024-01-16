@@ -34,13 +34,11 @@
 
 ## Data Processing and Analysis Skills
 
-### C++ Data Processing
+- ** C++ Data Processing **
+  - **I utilize the C++ programming language to write programs for extracting and processing protein modification data.
 
-I utilize the C++ programming language to write programs for extracting and processing protein modification data.
-
-### Python Data Analysis
-
-I employ Python for feature extraction of experimental data.
+- ** Python Data Analysis **
+  - **I employ Python for feature extraction of experimental data.
 
 
 ## Achievements
